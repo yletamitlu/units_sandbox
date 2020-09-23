@@ -30,5 +30,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/assert": "^1.5.2",
+    "@types/jest": "^26.0.14",
+    "@types/react-test-renderer": "^16.9.3",
+    "assert": "^2.0.0"
   }
 }
